@@ -12,6 +12,7 @@ namespace gitsourcecontrol
         {
             Console.WriteLine("First commit..");
             Console.WriteLine("Second commit..");
+            Console.WriteLine("Third commit..");
         }
     }
 }
