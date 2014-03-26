@@ -11,6 +11,7 @@ namespace gitsourcecontrol
         static void Main(string[] args)
         {
             Console.WriteLine("First commit..");
+            Console.WriteLine("Second commit..");
         }
     }
 }
